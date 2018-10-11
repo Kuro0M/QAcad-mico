@@ -1,0 +1,2 @@
+# QAcad-mico
+Qacadêmico diagrama
