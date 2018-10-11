@@ -1,2 +1,2 @@
 # QAcad-mico
-Qacadêmico diagrama
+Diagrama de caso de uso baseado no Q Acadêmico
